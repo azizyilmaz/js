@@ -9,6 +9,11 @@ Arrow Function () => and this keyword
   - Advantages of Arrow Functions
   - When should I use arrow functions in ECMAScript 6?
   - The Difference Between Regular Functions and Arrow Functions
+      - Syntax
+      - Arguments binding
+      - Use of this keyword
+      - Using new keyword
+      - No duplicate named parameters
 
 Spread Operator (...)
 
